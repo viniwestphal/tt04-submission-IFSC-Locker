@@ -21,3 +21,33 @@ Step by step:
 ## Pictures
 ![](https://github.com/viniwestphal/tt04-submission-IFSC-Locker/blob/main/locker.jpg)
 
+## I/O
+### inputs:
+- Step Button
+- Reset Button
+- Switch Entry 1
+- Switch Entry 2
+- Switch Entry 3
+- Switch Entry 4
+- Switch Entry 5
+- Switch Entry 6
+  
+ ### outputs:
+- Lock Exit State
+- Lock Exit State
+- Lock Exit State
+- Lock Exit State
+- Lock Exit State
+- Lock Exit State
+- Lock Exit State
+- Lock Exit State
+
+  ### bidirectional:
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
