@@ -19,7 +19,7 @@ Step by step:
 
 
 ## Pictures
-![](https://github.com/viniwestphal/tt04-submission-IFSC-Locker/blob/main/locker.jpg)
+![](https://github.com/viniwestphal/tt04-submission-IFSC-Locker/blob/main/locker.png)
 
 ## I/O
 ### inputs:
