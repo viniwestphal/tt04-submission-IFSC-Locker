@@ -12,9 +12,13 @@ The circuit has 6 input pins (representing a 6-bit password), 1 for the Step but
 For the circuit to operate, it is necessary to use a Step button that connects to pin IN0 to VCC when pressed, and another Reset button in the same configuration, connected to pin IN1. The remaining inputs from IN2 to IN7 are connected to 6 switches linked to VCC. When powering up the circuit, the circuit is reset with the Reset button, allowing a password to be registered. The user must adjust the switches as desired to form a combination and then press the Step button to register the password. After that, the next times the Step button is pressed, comparisons are made between the original combination and the tested combination, and a logical signal is sent to the output pins that can be used as desired.
 
 Step by step:
+
 1 - Start the simulation then press the Reset Button;
+
 2 - Set the desired combination for the lock and press the Step Button, the lock should open;
+
 3 - Restart the combination and press the Step button again, the lock should now be closed;
+
 4 - Now the lock should be working as intended, use the default combination to unlock it again.
 
 
