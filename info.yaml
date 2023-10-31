@@ -1,7 +1,8 @@
 --- 
 # TinyTapeout project information
 project:
-  wokwi_id:  380057429255223297        # If using wokwi, set this to your project's ID
+  wokwi_id:  380065816960234497
+        # If using wokwi, set this to your project's ID
 
 # If using an HDL, set wokwi_id as 0 and uncomment and list your source files here. 
 # Source files must be in ./src and you must list each source file separately
